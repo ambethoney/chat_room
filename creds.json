@@ -1,6 +1,3 @@
 {
-  "user": "",
-  "password":"",
-  "host":"",
-  "port":6379
+  "host":"redis://redistogo:3bc1fe7437322c8fa51657977f6dc4c4@angelfish.redistogo.com:9118/",
 }
